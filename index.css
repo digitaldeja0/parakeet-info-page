@@ -2,3 +2,22 @@ html, body {
     margin: 0;
     padding: 0;
 }
+
+.header{
+    background: cadetblue;
+    color: oldlace;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1.2em;
+}
+
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-item{
+    list-style: none;
+    padding-right: 1em;
+}

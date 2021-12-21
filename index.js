@@ -5,8 +5,15 @@ const root = document.getElementById("root")
 
 function Header () {
     return (
-        <header>
+        <header className="header" >
             <h1> The Parakeet Page</h1>
+            <nav className="nav-bar">
+                <ul className="nav-list" >
+                    <li className="nav-item"> Home </li>
+                    <li className="nav-item"> About Parakeets </li>
+                    <li className="nav-item"> Parakeet Photos </li>
+                </ul>
+            </nav>
         </header>
     )
 
