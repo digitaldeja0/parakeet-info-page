@@ -40,7 +40,7 @@ function Main () {
         </div> */}
 
         <div className="hero-section" >
-            <img className="hero-img" src="../img/img1.PNG"  alt="Parakeet"></img>
+            <img className="hero-img" src="./img/img1.PNG"  alt="Parakeet"></img>
         </div>
 
         <div className="intro" >
