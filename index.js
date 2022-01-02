@@ -73,6 +73,14 @@ function Gallery () {
         <section className="section gallery" >
             <h1> Gallery</h1>
             <img src="/img/parakeet_gal_1.jpg" alt="parakeet photo" class="gal-img"/>
+            <img src="/img/parakeet_gal_2.jpg" alt="parakeet photo" class="gal-img"/>
+            <img src="/img/parakeet_gal_3.jpg" alt="parakeet photo" class="gal-img"/>
+            <img src="/img/parakeet_gal_4.jpg" alt="parakeet photo" class="gal-img"/>
+            <img src="/img/parakeet_gal_5.jpg" alt="parakeet photo" class="gal-img"/>
+            <img src="/img/parakeet_gal_6.jpg" alt="parakeet photo" class="gal-img"/>
+            <img src="/img/parakeet_gal_7.jpg" alt="parakeet photo" class="gal-img"/>
+            <img src="/img/parakeet_gal_8.jpg" alt="parakeet photo" class="gal-img"/>
+            <img src="/img/parakeet_gal_9.jpg" alt="parakeet photo" class="gal-img"/>
         </section>
     )
 }
