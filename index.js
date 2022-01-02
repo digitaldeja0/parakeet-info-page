@@ -68,6 +68,16 @@ function Main () {
 }
 
 
+function Gallery () {
+    return (
+        <section className="section gallery" >
+            <h1> Gallery</h1>
+            <img src="/img/parakeet_gal_1.jpg" alt="parakeet photo" class="gal-img"/>
+        </section>
+    )
+}
+
+
 
 
 
@@ -90,6 +100,8 @@ function MyApp(){
          <Header />
 
          <Main />
+
+         <Gallery />
 
          <Footer />
 

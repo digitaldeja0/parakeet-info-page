@@ -155,6 +155,25 @@ html, body {
     align-items: center;
 }
 
+
+/* Gallery */
+
+.gallery{
+    display: flex;
+    flex-direction: column;
+}
+
+.gallery h1{
+    text-align: center;
+}
+
+.gal-img{
+    height: 400px;
+}
+
+
+
+
 /* Footer */
 
 .footer{
